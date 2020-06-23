@@ -1,7 +1,10 @@
 # giao-giao-everyday README
 
-每天都要Giao一Giao
-![](https://user-images.githubusercontent.com/22010181/85383495-9772be00-b572-11ea-97ad-8657b3507aad.jpg)
+
+![](https://github.com/laclys/Galio/blob/master/demo.jpg?raw=true)
+
+![](https://github.com/laclys/Galio/blob/master/demo2.png?raw=true)
+
 `In Menu`
 - Giao一下
 - How long to go home
