@@ -7,8 +7,8 @@
     "plugin",
     "happyWork"
   ],
-  "version": "0.0.2",
-  "publisher": "Lac",
+  "version": "0.0.3",
+  "publisher": "laclys",
   "engines": {
     "vscode": "^1.46.0"
   },
@@ -34,7 +34,7 @@
         "giao-giao-everyday.toHomeHours": {
           "type": "number",
           "default": "0",
-          "description": "下班时间(hours)"
+          "description": "下班时间(hours/24)"
         },
         "giao-giao-everyday.toHomeMinutes": {
           "type": "number",
